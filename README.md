@@ -1,6 +1,8 @@
 # Proyecto_final_POO
 
-Integrantes:
+**DESCRIPCIÓN DE PROYECTO:**
+
+**INTEGRANTES:**
 
 Ricardo Castillo Salvador 
 
